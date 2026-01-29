@@ -1,4 +1,4 @@
-[Completed Tasks here](https://docs.google.com/spreadsheets/d/1LL5sJ7-VpqF7UZ22W1NnM5AdP4gN9AZydKIRnFr7iv4/edit?usp=sharing)
+[Completed Tasks](https://docs.google.com/spreadsheets/d/1LL5sJ7-VpqF7UZ22W1NnM5AdP4gN9AZydKIRnFr7iv4/edit?usp=sharing)
 ---
 ## Completing this task enhances my HTTP knowledge, including:
 1. HTTP Knowledge: Understanding how HTTP requests and status codes work by deciphering their language.
