@@ -1,6 +1,12 @@
 1. [JSON Format](https://drive.google.com/file/d/127tQ8fY93oU7j1dAv0dw3ehrTNLq3cth/view?usp=sharing)
 2. [XML Format](https://drive.google.com/file/d/1WHGK1KAKo3SmZkVeGZSEi5MQgxgpA4yY/view?usp=sharing)
 ---
+## Doing this task I learnt how to:
+1. Create JSON and XML files
+2. Describe information about people using JSON and XML
+3. Store data in a structured format
+4. Use online editors for JSON and XML
+
 ## Task:
 1. A list of 4 people is given. Each person has a unique id, name, residential address and contacts.
 2. You need to describe information about these people and enter it into files.
