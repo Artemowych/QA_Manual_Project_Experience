@@ -1,6 +1,6 @@
 # Git Homework
 
-1. [My repositorie](https://github.com/Artemowych/HW_10.git)
+[My repositorie](https://github.com/Artemowych/HW_10.git)
 ---
 ## Task 1. Working with `.gitignore`
 1. Clone the repository (created in step 7) to your local machine.
