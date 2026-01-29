@@ -1,6 +1,6 @@
-[Here are my results of Regression Testing of the MillenniumBank Mobile Application and Smoke-testing with a Checklist of the Slack Application](https://docs.google.com/spreadsheets/d/1B9ZaMr9PBaOMXXmN_gFd8bH9noUQD398mXkEJ7JBfq8/edit?usp=sharing)
+ [Completed Tasks](https://docs.google.com/spreadsheets/d/1B9ZaMr9PBaOMXXmN_gFd8bH9noUQD398mXkEJ7JBfq8/edit?usp=sharing)
 ---
-## The task aimed to enhance my skills in writing test cases for regression testing and creating a checklist for smoke testing.
+# The task aimed to enhance my skills in writing test cases for regression testing and creating a checklist for smoke testing.
 #### Task 1
 A developer from your team has made some changes to the payment functionality. Create 3 positive and 3 negative test cases for regression testing of the MillenniumBank mobile banking application. That is, this is a check to see if new problems have appeared after making changes to the existing functionality.
 #### Task 2
