@@ -1,7 +1,4 @@
-# Git Homework
-
-[My repositorie](https://github.com/Artemowych/HW_10.git)
----
+# [My repositorie](https://github.com/Artemowych/HW_10.git)
 ## Task 1. Working with `.gitignore`
 1. Clone the repository (created in step 7) to your local machine.
 2. Navigate to the cloned repository on your local machine using the `cd` command.
