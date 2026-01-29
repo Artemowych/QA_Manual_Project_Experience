@@ -7,11 +7,11 @@
 3. Store data in a structured format
 4. Use online editors for JSON and XML
 
-## Task:
+### Task:
 1. A list of 4 people is given. Each person has a unique id, name, residential address and contacts.
 2. You need to describe information about these people and enter it into files.
 3. Save these files in JSON and XML formats.
-   ## Important
+   ### Important
 <ol start="1">
 <li>The "address" element must contain 4 nested elements: city, street, house and apartment number.</li>
 <li>The "contacts" element must contain 3 nested elements: phone number, email and username in "Telegram".</li>
